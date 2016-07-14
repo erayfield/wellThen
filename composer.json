@@ -1,0 +1,7 @@
+{
+    "require": {
+        "league/oauth2-client": "^1.4",
+        "phpmd/phpmd": "2.4.3",
+        "ursuleacv/oauth2-lightspeed": "2.0.3"
+    }
+}
